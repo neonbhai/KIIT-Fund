@@ -5,7 +5,8 @@ Presenting an open source decentralised cryptocurrency crowdfunding portal to en
 ## Project Description
 
 This is a fundraising application that allows users to create and manage fundraising campaigns. Users can create a campaign and share it with potential donors who can then donate to the campaign using their preferred cryptocurrency. The app tracks all donations and displays them in real-time on the campaign page. The app also allows users to withdraw their funds once the campaign has ended.
-Installation
+
+## Installation
 
 To install the app, follow these steps:
 

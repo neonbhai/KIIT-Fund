@@ -16,7 +16,7 @@ To install the app, follow these steps:
 
 ## Usage
 
-To use the app, simply sign up for an account, create a campaign, and share it with potential donors. Donors can then donate to the campaign using their preferred cryptocurrency.
+To use the app, simply sign up for an account then create a campaign, and share it with potential donors. Donors can then donate to the campaign using their preferred cryptocurrency.
 Contributing
 
 If you would like to contribute to the project, please follow these steps:
